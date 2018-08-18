@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ERetailer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="AfterService.war">
+      <element id="artifact" artifact-name="ERetailer:war exploded" />
+    </root>
+  </artifact>
+</component>
